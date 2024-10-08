@@ -4,7 +4,7 @@ Welcome to the assignment repository for the **CS686 - Introduction to AI** cour
 
 ## 📂 Contents
 
-- [Assignment 1](A1 LCFS)
+- [Assignment 1](https://github.com/shakibaam/CS-686-codes-Intro-to-AI-/tree/main/A1%20LCFS)
 
 
 ## 📌 Assignment Overview
