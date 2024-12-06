@@ -5,6 +5,7 @@ Welcome to the assignment repository for the **CS686 - Introduction to AI** cour
 ## 📂 Contents
 
 - [Assignment 1](https://github.com/shakibaam/CS-686-codes-Intro-to-AI-/tree/main/A1%20LCFS)
+- [Assignment 2](https://github.com/shakibaam/CS-686-Assignments/tree/main/Decision%20Tree)
 
 
 ## 📌 Assignment Overview
@@ -16,6 +17,10 @@ Below, you'll find a brief overview of each assignment in the course.
 - **Description:** Implementing Lowest Cost First Search algorithm with limited frontier size
 
 ### Assignment 2
+
+- **Description:** Implementing Implement a decision tree learning algorithm for classifying documents based on word features. Each decision node corresponds to
+a word feature, and the leaf nodes correspond to a prediction of what subreddit the article
+belongs in.
 
 
 
