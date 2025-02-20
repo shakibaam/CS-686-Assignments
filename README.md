@@ -27,7 +27,7 @@ belongs in.
 
 ### Assignment 3
 
-- **Part1:** Implementing  a Na¨ ıve Bayes classifier for the same data of Assignment 2. The task is to learn a Bayesian network where the root node is the label/category variable with one child variable per word feature.
+- **Part1:** Implementing  a Naive Bayes classifier for the same data of Assignment 2. The task is to learn a Bayesian network where the root node is the label/category variable with one child variable per word feature.
   
 -  **Part2:**  implementing a feedforward neural network from scratch
 
